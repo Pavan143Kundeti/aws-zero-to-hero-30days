@@ -40,7 +40,14 @@ By the end of this 30-day series, you will:
   - Create and Connect to EC2
   - Deploy Jenkins Application
 
-- **Day 4-7**: Coming Soon
+- **Day 4**: [AWS VPC - Virtual Private Cloud](./Day4_AWS_VPC_Virtual_Private_Cloud.md)
+  - What is VPC and Why It's Needed
+  - Real-Life Analogy (Gated Community)
+  - VPC Components Deep Dive
+  - Traffic Flow Explanation
+  - Security Concepts
+
+- **Day 5-7**: Coming Soon
 
 ### Week 2-4: Core Services
 - Coming Soon
@@ -72,7 +79,7 @@ By the end of this 30-day series, you will:
 - [x] Day 1: AWS Introduction and Cloud Basics
 - [x] Day 2: AWS IAM - Authentication and Authorization
 - [x] Day 3: AWS EC2 - Elastic Cloud Compute
-- [ ] Day 4: Coming Soon
+- [x] Day 4: AWS VPC - Virtual Private Cloud
 - [ ] Day 5: Coming Soon
 - [ ] Day 6: Coming Soon
 - [ ] Day 7: Coming Soon
