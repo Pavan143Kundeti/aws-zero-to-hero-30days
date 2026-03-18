@@ -33,7 +33,14 @@ By the end of this 30-day series, you will:
   - Hands-on IAM Practice
   - Security Best Practices
 
-- **Day 3-7**: Coming Soon
+- **Day 3**: [AWS EC2 - Elastic Cloud Compute](./Day3_AWS_EC2_Elastic_Cloud_Compute.md)
+  - What is EC2 and Why Use It
+  - EC2 Instance Types
+  - Regions and Availability Zones
+  - Create and Connect to EC2
+  - Deploy Jenkins Application
+
+- **Day 4-7**: Coming Soon
 
 ### Week 2-4: Core Services
 - Coming Soon
@@ -64,7 +71,11 @@ By the end of this 30-day series, you will:
 
 - [x] Day 1: AWS Introduction and Cloud Basics
 - [x] Day 2: AWS IAM - Authentication and Authorization
-- [ ] Day 3: Coming Soon
+- [x] Day 3: AWS EC2 - Elastic Cloud Compute
+- [ ] Day 4: Coming Soon
+- [ ] Day 5: Coming Soon
+- [ ] Day 6: Coming Soon
+- [ ] Day 7: Coming Soon
 - [ ] Day 4: Coming Soon
 - [ ] Day 5: Coming Soon
 - [ ] Day 6: Coming Soon
