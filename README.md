@@ -54,7 +54,14 @@ By the end of this 30-day series, you will:
   - Hands-On: Create Custom VPC
   - Practical Security Testing
 
-- **Day 6-7**: Coming Soon
+- **Day 6**: [AWS Route 53 - DNS Service](./Day6_AWS_Route53_DNS_Service.md)
+  - What is DNS and Why It's Needed
+  - Route 53 Components
+  - Domain Registration and Hosted Zones
+  - Health Checks and Routing Policies
+  - Integration with VPC
+
+- **Day 7**: Coming Soon
 
 ### Week 2-4: Core Services
 - Coming Soon
@@ -88,7 +95,7 @@ By the end of this 30-day series, you will:
 - [x] Day 3: AWS EC2 - Elastic Cloud Compute
 - [x] Day 4: AWS VPC - Virtual Private Cloud
 - [x] Day 5: VPC Security - Security Groups and NACLs
-- [ ] Day 6: Coming Soon
+- [x] Day 6: AWS Route 53 - DNS Service
 - [ ] Day 7: Coming Soon
 - [ ] Day 4: Coming Soon
 - [ ] Day 5: Coming Soon
