@@ -3,7 +3,7 @@
 ## Course Overview
 - **Series**: 30 Days AWS Zero to Hero
 - **Focus**: DevOps Engineer perspective
-- **Instructor**: Abhishek
+- **Instructor**: Kundeti Pavan Kumar
 - **Goal**: Build practical AWS knowledge for projects and career
 
 ## Today's Agenda
