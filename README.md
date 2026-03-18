@@ -27,7 +27,13 @@ By the end of this 30-day series, you will:
   - Why AWS is Popular
   - AWS Account Setup
 
-- **Day 2-7**: Coming Soon
+- **Day 2**: [AWS IAM - Authentication and Authorization](./Day2_AWS_IAM_Authentication_and_Authorization.md)
+  - What is IAM and Why It's Needed
+  - Users, Groups, Policies, and Roles
+  - Hands-on IAM Practice
+  - Security Best Practices
+
+- **Day 3-7**: Coming Soon
 
 ### Week 2-4: Core Services
 - Coming Soon
@@ -57,7 +63,7 @@ By the end of this 30-day series, you will:
 ## 📝 Progress Tracker
 
 - [x] Day 1: AWS Introduction and Cloud Basics
-- [ ] Day 2: Coming Soon
+- [x] Day 2: AWS IAM - Authentication and Authorization
 - [ ] Day 3: Coming Soon
 - [ ] Day 4: Coming Soon
 - [ ] Day 5: Coming Soon
