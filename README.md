@@ -61,7 +61,16 @@ By the end of this 30-day series, you will:
   - Health Checks and Routing Policies
   - Integration with VPC
 
-- **Day 7**: Coming Soon
+- **Day 7**: [Production VPC Project](./Day7_Production_VPC_Project.md)
+  - Complete Production Architecture
+  - VPC with Public/Private Subnets
+  - Auto Scaling Group Setup
+  - Load Balancer Configuration
+  - Bastion Host Implementation
+  - Real Application Deployment
+
+### Week 2: Advanced Topics
+- **Day 8**: Coming Soon
 
 ### Week 2-4: Core Services
 - Coming Soon
@@ -96,7 +105,8 @@ By the end of this 30-day series, you will:
 - [x] Day 4: AWS VPC - Virtual Private Cloud
 - [x] Day 5: VPC Security - Security Groups and NACLs
 - [x] Day 6: AWS Route 53 - DNS Service
-- [ ] Day 7: Coming Soon
+- [x] Day 7: Production VPC Project
+- [ ] Day 8: Coming Soon
 - [ ] Day 4: Coming Soon
 - [ ] Day 5: Coming Soon
 - [ ] Day 6: Coming Soon
