@@ -199,9 +199,9 @@ Response sent back to user
 
 **Traditional Way (Before AWS)**:
 1. Go to GoDaddy
-2. Search for domain (abhishek.com)
-3. If taken, try abhishek.in
-4. If taken, try abhishek.cricket
+2. Search for domain (pavankumar.com)
+3. If taken, try pavankumar.in
+4. If taken, try pavankumar.cricket
 5. Purchase domain
 6. Go to hosting provider (Hostinger)
 7. Set up hosting
