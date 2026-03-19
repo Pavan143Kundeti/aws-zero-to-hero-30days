@@ -195,6 +195,17 @@ Development Team 1:
 - Must explicitly allow both inbound AND outbound
 - Doesn't track connection state
 - Each direction needs separate rule
+ Stateful vs Stateless
+Security Groups (Stateful):
+
+If you allow inbound, response automatically allowed
+Tracks connection state
+Return traffic automatically permitted
+NACLs (Stateless):
+
+Must explicitly allow both inbound AND outbound
+Doesn't track connection state
+Each direction needs separate rule
 
 ---
 
