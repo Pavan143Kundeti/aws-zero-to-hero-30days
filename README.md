@@ -78,7 +78,14 @@ By the end of this 30-day series, you will:
   - Bastion Host Implementation
   - Interview Tips and Strategies
 
-- **Day 9**: Coming Soon
+- **Day 9**: [AWS S3 - Simple Storage Service](./Day9_AWS_S3_Simple_Storage_Service.md)
+  - What is S3 and Why It's Popular
+  - Storage Classes and Pricing
+  - Bucket Policies and Security
+  - Static Website Hosting
+  - Hands-On Demos
+
+- **Day 10**: Coming Soon
 
 ### Week 2-4: Core Services
 - Coming Soon
@@ -115,7 +122,8 @@ By the end of this 30-day series, you will:
 - [x] Day 6: AWS Route 53 - DNS Service
 - [x] Day 7: Production VPC Project
 - [x] Day 8: Scenario-Based Interview Questions
-- [ ] Day 9: Coming Soon
+- [x] Day 9: AWS S3 - Simple Storage Service
+- [ ] Day 10: Coming Soon
 - [ ] Day 4: Coming Soon
 - [ ] Day 5: Coming Soon
 - [ ] Day 6: Coming Soon
