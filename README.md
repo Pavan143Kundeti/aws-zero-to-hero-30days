@@ -70,7 +70,15 @@ By the end of this 30-day series, you will:
   - Real Application Deployment
 
 ### Week 2: Advanced Topics
-- **Day 8**: Coming Soon
+- **Day 8**: [Scenario-Based Interview Questions](./Day8_Scenario_Based_Interview_Questions.md)
+  - 10 Real Interview Scenarios
+  - VPC Architecture Questions
+  - Security and Access Control
+  - IAM Components Explained
+  - Bastion Host Implementation
+  - Interview Tips and Strategies
+
+- **Day 9**: Coming Soon
 
 ### Week 2-4: Core Services
 - Coming Soon
@@ -106,7 +114,8 @@ By the end of this 30-day series, you will:
 - [x] Day 5: VPC Security - Security Groups and NACLs
 - [x] Day 6: AWS Route 53 - DNS Service
 - [x] Day 7: Production VPC Project
-- [ ] Day 8: Coming Soon
+- [x] Day 8: Scenario-Based Interview Questions
+- [ ] Day 9: Coming Soon
 - [ ] Day 4: Coming Soon
 - [ ] Day 5: Coming Soon
 - [ ] Day 6: Coming Soon
